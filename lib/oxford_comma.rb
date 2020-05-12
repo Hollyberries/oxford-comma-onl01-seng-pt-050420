@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  ["fiddleheads", "okra", "kohlrabi"]
+  array.join
   
-  (array) << 
+  #(array) << 
 end
